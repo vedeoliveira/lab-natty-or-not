@@ -23,20 +23,31 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Apenas uma imgam gerada através de um site de Geração de Imagens
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+https://app.leonardo.ai/image-generation
+https://openart.ai/
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O processo é simples, apenas descreva a cena no prompt
+e então o resultado será gerado após alguns segundos.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado está nas imagens deste mesmo repositório
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Realmente alguns resultados podem ser interessantes com o devído uso da ferramenta
+por exemplo se pode criar banners, propagandas e até mesmo aulas utilizando textos
+que foram convertidos em falas e juntando ao um avatar virtual para fazer a
+apresentação do conteúdo. Mas vale ressaltar que mesmo com todas essas facilidades
+só foi possivel porque uma pessoa criou um conteúdo e buscou formas de apresenta-lo
+mesmo que através de uso de tecnologias de IA.
+
+
+"No fim das contas, quem toma a decisão de
+apertar o botão vermelho é o homem e não a maquina."
+
 
 ### Exemplos e Insigths
 
